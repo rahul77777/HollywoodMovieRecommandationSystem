@@ -11,7 +11,7 @@ import requests
 
 from tmdbv3api import TMDb
 tmdb = TMDb()
-tmdb.api_key = '983e7ca75021f7d73509b1b4135dc622'
+tmdb.api_key = 'YOUR API KEY'
 
 from tmdbv3api import Movie
 

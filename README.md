@@ -1,6 +1,5 @@
 # HollywoodMovieRecommandationSystem
-
-    Required libraries: Flask, gunicorn, MarkupSafe, numpy, scipy, nltk, scikit-learn, pandas, jsonschema, tmdbv3api, lxml, urllib3, requests, pickleshare.
+ Required libraries: Flask, gunicorn, MarkupSafe, numpy, scipy, nltk, scikit-learn, pandas, jsonschema, tmdbv3api, lxml, urllib3, requests, pickleshare.
 
 We need an api , you can get API key from https://www.themoviedb.org/. (follow the steps given in this site to get API key)
 
